@@ -10,7 +10,6 @@ Quick start:
 2. From this folder run:
 
 ```bash
-cd flutter_app
 flutter pub get
 flutter run
 ```
